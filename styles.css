@@ -1,0 +1,22 @@
+body {
+    background-color: #f3e5f5;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.video-container {
+    margin: 25px auto;
+}
+
+.animated-box {
+    width: 250px;
+    height: 56px;
+    margin: 35px auto;
+    background-color: #6a1b9a;
+    line-height: 56px;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 14px;
+    position: relative;
+}
